@@ -1,0 +1,13 @@
+body {
+	background-image: url("../img/desk.png");
+}
+
+div {
+	margin: 45px auto;
+	width: 500px;
+	height: 700px;
+}
+
+img {
+	width: 100%;
+}
