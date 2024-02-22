@@ -1,0 +1,33 @@
+body {
+	background-image: url("../img/desk.png");
+	background-repeat: no-repeat;
+}
+
+.pad{
+	background-image: url("../img/ipad.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin: 45px auto;
+	width: 500px;
+	height: 700px;
+}
+
+img {
+	width: 100%;
+}
+
+.rows{
+	padding: 3px 70px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.app{
+	margin-top: 95px;
+	text-align: center;
+	width: 15%;
+}
+
+p{
+	color: rgba(71, 89, 171, 0.9)
+}
